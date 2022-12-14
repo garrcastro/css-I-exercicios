@@ -1,0 +1,49 @@
+*{
+    margin: 10px;
+    padding:1px;
+}
+
+main{
+    font-family: Arial, Helvetica, sans-serif;
+    color:white;
+}
+.bloco{
+    border: 5px solid black;
+    margin: 10px;
+    padding: 10px 10px;
+    display: block;
+    width: 20vw;
+    
+}
+
+h1{
+    font-style: bold;
+    display:block;
+    margin:3px;
+}
+
+p{
+    display:inline;
+    margin:5px;
+        
+}
+
+#bloco-1{
+    background-color: rgb(244, 131, 90);
+    border: 5px solid orange;
+}
+
+#bloco-2{
+    background-color: rgb(34, 114, 34);
+    border: 5px solid rgb(78, 139, 78);
+}
+
+#bloco-3{
+    background-color: rgb(3, 49, 3);
+    border: 5px dashed green;
+}
+
+#bloco-4{
+    background-color: rgb(165, 30, 30);
+    border: 5px dashed rgb(211, 69, 93);
+}
